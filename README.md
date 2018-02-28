@@ -7,7 +7,7 @@ Cross-Platform C++17 HTTPd (Linux / Windows). This project was done during my th
 
 ## Technical Constraints
 
-- Use an API elected by all EPITECH third year students
+- Use an API elected by EPITECH third year students
 - Ability to load and unload modules at runtime (without recompiling nor restarting the server)
 
 ## Getting Started
