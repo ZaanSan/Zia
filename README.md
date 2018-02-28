@@ -32,8 +32,6 @@ Launch the executable `./cpp_zia` or `cpp_zia.exe`
 
 * [Corentin Bordes](https://github.com/Zaangetsuu)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
